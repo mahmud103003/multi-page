@@ -1,0 +1,194 @@
+.dream{
+  color: green;
+}
+#location ul li::before {
+  background: green;
+}
+#location ul li::after {
+  background: green;
+}
+#location ul li a::before {
+  background: green;
+}
+#location ul li a::after {
+  background: green;
+}
+.nav ul li::before {
+  background: green;
+}
+.nav ul li::after {
+  background: green;
+}
+.nav ul li a::before {
+  background: green;
+}
+.nav ul li a::after {
+  background: green;
+}
+.btn-1:hover {
+	background-color: green;
+  border: 2px solid green;
+  }
+  .btn-2:hover {
+    background-color: green;
+    border: 2px solid green;
+    }
+    .nav-tabs .nav-link:hover {
+      border: 1px solid transparent;
+      color: green;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+      color: green;
+    }
+  #about .nav-tabs .nav-link.active {
+    color: green;
+    border-bottom: 5px solid green;
+  }
+  #about .read:hover {
+    background-color: green;
+    border: 2px solid green;
+  }
+  #blog .card .overlay i {
+    background: green;
+  }
+  #service .service-item:hover h6::before {
+    background: green;
+  }
+  #service .service-item:hover .sqr {
+    border: 2px solid green;
+  }
+  #service .service-item:hover .service-text {
+    border: 2px solid green;
+  }
+  #service .service-item:hover .pn-rulr {
+    color: green;
+  }
+  .btn-3:hover {
+    background-color: green;
+    border: 2px solid green;
+  }
+  #footer .link:hover {
+    color: green;
+  }
+  #footer ul li a:hover {
+    background: green;
+  }
+  #footer a:hover .locat {
+    background: green;
+  }
+  #footer a:hover .phn {
+    background: green;
+  }
+  #footer a:hover .envlp {
+    background: green;
+  }
+  #banner .b-prev i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #banner .b-prev i:hover {
+    color: green;
+  }
+  #banner .b-prev i:hover::after {
+    background: green;
+  }
+  #banner .b-next i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #banner .b-next i:hover {
+    color: green;
+  }
+  #banner .b-next i:hover::after {
+    background: green;
+  }
+  #banner .b-prev i:hover .ikon::before {
+    background: green;
+  }
+  #banner .b-next i:hover .ikon::before {
+    background: green;
+  }
+
+
+
+
+#blog .bl-prev i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #blog .bl-prev i:hover {
+    color: green;
+  }
+  #blog .bl-prev i:hover::after {
+    background: green;
+  }
+  #blog .bl-next i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #blog .bl-next i:hover {
+    color: green;
+  }
+  #blog .bl-next i:hover::after {
+    background: green;
+  }
+  #blog .bl-prev i:hover .ikon::before {
+    background: green;
+  }
+  #blog .bl-prev i:hover .ikon::after {
+    background: green;
+  }
+  #blog .bl-next i:hover .ikon::before {
+    background: green;
+  }
+  #test .r-next i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #test .r-next i:hover .ikon::before {
+    background: green;
+  }
+  #test .l-prev i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #test .l-prev i:hover::after {
+    background: green;
+  }
+  #test .r-next i:hover::after {
+    background: green;
+  }
+  #test .l-prev i:hover .ikon::before {
+    background: green;
+  }
+  #gallery .prev i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #gallery .next i:hover {
+    color: green;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+  }
+  #gallery .prev i:hover .ikon::before {
+    background: green;
+  }
+#gallery .prev i:hover::after {
+  background: green;
+}
+#gallery .next i:hover::after {
+  background: green;
+}
+#gallery .next i:hover .ikon::before {
+  background: green;
+}
+#gallery .next i:hover::after {
+  background: green;
+}

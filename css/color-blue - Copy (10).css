@@ -1,0 +1,194 @@
+.dream{
+  color: blue;
+}
+#location ul li::before {
+  background: blue;
+}
+#location ul li::after {
+  background: blue;
+}
+#location ul li a::before {
+  background: blue;
+}
+#location ul li a::after {
+  background: blue;
+}
+.nav ul li::before {
+  background: blue;
+}
+.nav ul li::after {
+  background: blue;
+}
+.nav ul li a::before {
+  background: blue;
+}
+.nav ul li a::after {
+  background: blue;
+}
+.btn-1:hover {
+	background-color: blue;
+  border: 2px solid blue;
+  }
+  .btn-2:hover {
+    background-color: blue;
+    border: 2px solid blue;
+    }
+    .nav-tabs .nav-link:hover {
+      border: 1px solid transparent;
+      color: blue;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+      color: blue;
+    }
+  #about .nav-tabs .nav-link.active {
+    color: blue;
+    border-bottom: 5px solid blue;
+  }
+  #about .read:hover {
+    background-color: blue;
+    border: 2px solid blue;
+  }
+  #blog .card .overlay i {
+    background: blue;
+  }
+  #service .service-item:hover h6::before {
+    background: blue;
+  }
+  #service .service-item:hover .sqr {
+    border: 2px solid blue;
+  }
+  #service .service-item:hover .service-text {
+    border: 2px solid blue;
+  }
+  #service .service-item:hover .pn-rulr {
+    color: blue;
+  }
+  .btn-3:hover {
+    background-color: blue;
+    border: 2px solid blue;
+  }
+  #footer .link:hover {
+    color: blue;
+  }
+  #footer ul li a:hover {
+    background: blue;
+  }
+  #footer a:hover .locat {
+    background: blue;
+  }
+  #footer a:hover .phn {
+    background: blue;
+  }
+  #footer a:hover .envlp {
+    background: blue;
+  }
+  #banner .b-prev i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #banner .b-prev i:hover {
+    color: blue;
+  }
+  #banner .b-prev i:hover::after {
+    background: blue;
+  }
+  #banner .b-next i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #banner .b-next i:hover {
+    color: blue;
+  }
+  #banner .b-next i:hover::after {
+    background: blue;
+  }
+  #banner .b-prev i:hover .ikon::before {
+    background: blue;
+  }
+  #banner .b-next i:hover .ikon::before {
+    background: blue;
+  }
+
+
+
+
+#blog .bl-prev i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #blog .bl-prev i:hover {
+    color: blue;
+  }
+  #blog .bl-prev i:hover::after {
+    background: blue;
+  }
+  #blog .bl-next i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #blog .bl-next i:hover {
+    color: blue;
+  }
+  #blog .bl-next i:hover::after {
+    background: blue;
+  }
+  #blog .bl-prev i:hover .ikon::before {
+    background: blue;
+  }
+  #blog .bl-prev i:hover .ikon::after {
+    background: blue;
+  }
+  #blog .bl-next i:hover .ikon::before {
+    background: blue;
+  }
+  #test .r-next i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #test .r-next i:hover .ikon::before {
+    background: blue;
+  }
+  #test .l-prev i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #test .l-prev i:hover::after {
+    background: blue;
+  }
+  #test .r-next i:hover::after {
+    background: blue;
+  }
+  #test .l-prev i:hover .ikon::before {
+    background: blue;
+  }
+  #gallery .prev i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #gallery .next i:hover {
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+  }
+  #gallery .prev i:hover .ikon::before {
+    background: blue;
+  }
+#gallery .prev i:hover::after {
+  background: blue;
+}
+#gallery .next i:hover::after {
+  background: blue;
+}
+#gallery .next i:hover .ikon::before {
+  background: blue;
+}
+#gallery .next i:hover::after {
+  background: blue;
+}

@@ -1,0 +1,194 @@
+.dream{
+  color: #1febe0;
+}
+#location ul li::before {
+  background: #1febe0;
+}
+#location ul li::after {
+  background: #1febe0;
+}
+#location ul li a::before {
+  background: #1febe0;
+}
+#location ul li a::after {
+  background: #1febe0;
+}
+.nav ul li::before {
+  background: #1febe0;
+}
+.nav ul li::after {
+  background: #1febe0;
+}
+.nav ul li a::before {
+  background: #1febe0;
+}
+.nav ul li a::after {
+  background: #1febe0;
+}
+.btn-1:hover {
+	background-color: #1febe0;
+  border: 2px solid #1febe0;
+  }
+  .btn-2:hover {
+    background-color: #1febe0;
+    border: 2px solid #1febe0;
+    }
+    .nav-tabs .nav-link:hover {
+      border: 1px solid transparent;
+      color: #1febe0;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+      color: #1febe0;
+    }
+  #about .nav-tabs .nav-link.active {
+    color: #1febe0;
+    border-bottom: 5px solid #1febe0;
+  }
+  #about .read:hover {
+    background-color: #1febe0;
+    border: 2px solid #1febe0;
+  }
+  #blog .card .overlay i {
+    background: #1febe0;
+  }
+  #service .service-item:hover h6::before {
+    background: #1febe0;
+  }
+  #service .service-item:hover .sqr {
+    border: 2px solid #1febe0;
+  }
+  #service .service-item:hover .service-text {
+    border: 2px solid #1febe0;
+  }
+  #service .service-item:hover .pn-rulr {
+    color: #1febe0;
+  }
+  .btn-3:hover {
+    background-color: #1febe0;
+    border: 2px solid #1febe0;
+  }
+  #footer .link:hover {
+    color: #1febe0;
+  }
+  #footer ul li a:hover {
+    background: #1febe0;
+  }
+  #footer a:hover .locat {
+    background: #1febe0;
+  }
+  #footer a:hover .phn {
+    background: #1febe0;
+  }
+  #footer a:hover .envlp {
+    background: #1febe0;
+  }
+  #banner .b-prev i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #banner .b-prev i:hover {
+    color: #1febe0;
+  }
+  #banner .b-prev i:hover::after {
+    background: #1febe0;
+  }
+  #banner .b-next i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #banner .b-next i:hover {
+    color: #1febe0;
+  }
+  #banner .b-next i:hover::after {
+    background: #1febe0;
+  }
+  #banner .b-prev i:hover .ikon::before {
+    background: #1febe0;
+  }
+  #banner .b-next i:hover .ikon::before {
+    background: #1febe0;
+  }
+
+
+
+
+#blog .bl-prev i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #blog .bl-prev i:hover {
+    color: #1febe0;
+  }
+  #blog .bl-prev i:hover::after {
+    background: #1febe0;
+  }
+  #blog .bl-next i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #blog .bl-next i:hover {
+    color: #1febe0;
+  }
+  #blog .bl-next i:hover::after {
+    background: #1febe0;
+  }
+  #blog .bl-prev i:hover .ikon::before {
+    background: #1febe0;
+  }
+  #blog .bl-prev i:hover .ikon::after {
+    background: #1febe0;
+  }
+  #blog .bl-next i:hover .ikon::before {
+    background: #1febe0;
+  }
+  #test .r-next i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #test .r-next i:hover .ikon::before {
+    background: #1febe0;
+  }
+  #test .l-prev i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #test .l-prev i:hover::after {
+    background: #1febe0;
+  }
+  #test .r-next i:hover::after {
+    background: #1febe0;
+  }
+  #test .l-prev i:hover .ikon::before {
+    background: #1febe0;
+  }
+  #gallery .prev i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #gallery .next i:hover {
+    color: #1febe0;
+    border-top: 2px solid #1febe0;
+    border-bottom: 2px solid #1febe0;
+  }
+  #gallery .prev i:hover .ikon::before {
+    background: #1febe0;
+  }
+#gallery .prev i:hover::after {
+  background: #1febe0;
+}
+#gallery .next i:hover::after {
+  background: #1febe0;
+}
+#gallery .next i:hover .ikon::before {
+  background: #1febe0;
+}
+#gallery .next i:hover::after {
+  background: #1febe0;
+}
